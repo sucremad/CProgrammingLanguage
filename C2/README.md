@@ -1,6 +1,6 @@
 ### Examples
 
-* __Example1__ - Determine the English level according to the net correct number determined from the true and false numbers entered on the keyboard. 4 false answer takes a right answer.
+* __Example1__ - Determine the English level according to the net correct number determined from the true and false numbers entered on the keyboard. 4 false answers takes a right answer.
 
 
  | Net | Level |
@@ -10,3 +10,6 @@
  | 30 <= net < 50 | Preintermediate |
  | 50 <= net < 70 | Intermediate |
  | 70 <= net | Upper |
+
+
+* __Example2__ - Get the information of the selected geometric shape and print the area on the screen.
