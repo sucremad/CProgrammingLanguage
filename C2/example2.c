@@ -1,17 +1,20 @@
 #include <stdio.h>
+#include <ctype.h> // for tolower() function
+
 
 int main(){
     char choice;
     const float pi = 3.14;
     float radius,side, base,h;
     printf("-----------MENU-----------\n"
-           "-    c Circle      -\n"
-           "-    t triangle    -\n"
-           "-    s square      -\n"
+           "-    'C' or 'c' Circle      -\n"
+           "-    'T' or 't' triangle    -\n"
+           "-    'S' or 's' square      -\n"
            "--------------------------\n");
     printf("Your choice : ");
     scanf("%c",&choice);
-    switch (choice) {
+
+    switch (tolower(choice)) {
         case  'c':
             printf("Enter the radius: ");
             scanf("%f",&radius);
