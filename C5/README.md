@@ -1,6 +1,6 @@
 ### Examples
 -----
 * **Example1**
-  * Fibonacci Series
+  * _Fibonacci Series_
 * **Example2**
-  * GCD - Greatest Common Divisor - (EBOB)
+  * _GCD - Greatest Common Divisor - (EBOB)_
