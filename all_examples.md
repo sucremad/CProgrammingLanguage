@@ -36,14 +36,14 @@
      | 2.5 <= a < 3.5 | B |
      |  3.5 <= a  | A |
      
-     <br/>
      
 * **Example8** <br/> 
   * Find Factoriial <br/> 
 * **Example9** <br/>
   * Find the number is narcissistic or not. An n-digit number that is the sum of the nth powers of its digits is called an n-narcissistic number.
     * example: 153 = 1^3 + 5^3 + 3^3
-     
+ <br/>
+
  ------
      
 <p align='right'><i>If you want more example, let me know!</i></p>
