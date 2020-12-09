@@ -37,9 +37,9 @@
      |  3.5 <= a  | A |
      
      
-* **Example8** <br/> 
-  * Find Factoriial <br/> 
-* **Example9** <br/>
+* **Example8**   [:paw_prints:](https://github.com/sucremad/CProgrammingLanguage/blob/main/C4/example1.c) <br/> 
+  * Find Factorial <br/> 
+* **Example9**   [:paw_prints:](https://github.com/sucremad/CProgrammingLanguage/blob/main/C4/example2.c) <br/>
   * Find the number is narcissistic or not. An n-digit number that is the sum of the nth powers of its digits is called an n-narcissistic number.
     * example: 153 = 1^3 + 5^3 + 3^3
  <br/>
