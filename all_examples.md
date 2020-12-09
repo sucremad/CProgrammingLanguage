@@ -42,6 +42,11 @@
 * **Example9**   [:paw_prints:](https://github.com/sucremad/CProgrammingLanguage/blob/main/C4/example2.c) <br/>
   * Find the number is narcissistic or not. An n-digit number that is the sum of the nth powers of its digits is called an n-narcissistic number.
     * example: 153 = 1^3 + 5^3 + 3^3
+    
+* **Example10** [:paw_prints:](https://github.com/sucremad/CProgrammingLanguage/blob/main/C5/example1.c)   
+  * Fibonacci Series
+* **Example11** [:paw_prints:](https://github.com/sucremad/CProgrammingLanguage/blob/main/C5/example2.c)  
+  * GCD - Greatest Common Divisor - (EBOB)
  <br/>
 
  ------
