@@ -7,5 +7,7 @@ Learning C Programming Language
 * [C4](/C4) - Functions and examples. :octocat: 
 * [C5](/C5) - Recursive Functions and examples. :octocat:
 * C6 - Arrays.  ![%5](https://progress-bar.dev/0) <br/>
-* [C7](/C7) - Pointers and an example. :octocat:
+* [C7](/C7) - Pointers and an example. :octocat: 
+* [C](/C) - Structures. :octocat:
+
 
